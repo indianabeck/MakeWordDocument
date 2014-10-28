@@ -1,0 +1,12 @@
+E:\Projects\MakeWordDocument\MakeWordDocument\bin\Release\MakeWordDocument.exe.config
+E:\Projects\MakeWordDocument\MakeWordDocument\bin\Release\MakeWordDocument.exe
+E:\Projects\MakeWordDocument\MakeWordDocument\bin\Release\MakeWordDocument.pdb
+E:\Projects\MakeWordDocument\MakeWordDocument\obj\Release\MakeWordDocument.csproj.ResolveComReference.cache
+E:\Projects\MakeWordDocument\MakeWordDocument\obj\Release\MakeWordDocument.exe
+E:\Projects\MakeWordDocument\MakeWordDocument\obj\Release\MakeWordDocument.pdb
+E:\Projects\MakeWordDocument\MakeWordDocument\bin\Release\MakeScreenShotsDocument.exe
+E:\Projects\MakeWordDocument\MakeWordDocument\bin\Release\MakeScreenShotsDocument.pdb
+E:\Projects\MakeWordDocument\MakeWordDocument\obj\Release\MakeWordDocument.csprojResolveAssemblyReference.cache
+E:\Projects\MakeWordDocument\MakeWordDocument\bin\Release\Resources\Help.docx
+E:\Projects\MakeWordDocument\MakeWordDocument\bin\Release\Resources\list.xlsx
+E:\Projects\MakeWordDocument\MakeWordDocument\bin\Release\Resources\Page1.docx

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeWordDocument", "MakeWordDocument\MakeWordDocument.csproj", "{9A2B9E33-BFE0-4786-A396-3E06376D7EFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeScreenShotsDocument", "MakeScreenShotsDocument\MakeScreenShotsDocument.csproj", "{3E331AAA-9E46-47C3-BF93-7E703CAB156F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A2B9E33-BFE0-4786-A396-3E06376D7EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A2B9E33-BFE0-4786-A396-3E06376D7EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A2B9E33-BFE0-4786-A396-3E06376D7EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A2B9E33-BFE0-4786-A396-3E06376D7EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E331AAA-9E46-47C3-BF93-7E703CAB156F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E331AAA-9E46-47C3-BF93-7E703CAB156F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E331AAA-9E46-47C3-BF93-7E703CAB156F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E331AAA-9E46-47C3-BF93-7E703CAB156F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

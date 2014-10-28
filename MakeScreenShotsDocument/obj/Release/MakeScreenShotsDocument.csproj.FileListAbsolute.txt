@@ -1,0 +1,17 @@
+E:\Projects\MakeWordDocument\MakeScreenShotsDocument\bin\Release\MakeScreenShotsDocument.exe.config
+E:\Projects\MakeWordDocument\MakeScreenShotsDocument\bin\Release\MakeScreenShotsDocument.exe.manifest
+E:\Projects\MakeWordDocument\MakeScreenShotsDocument\bin\Release\MakeScreenShotsDocument.application
+E:\Projects\MakeWordDocument\MakeScreenShotsDocument\bin\Release\MakeScreenShotsDocument.exe
+E:\Projects\MakeWordDocument\MakeScreenShotsDocument\bin\Release\MakeScreenShotsDocument.pdb
+E:\Projects\MakeWordDocument\MakeScreenShotsDocument\obj\Release\MakeScreenShotsDocument.MakeScreenShotsDocument.resources
+E:\Projects\MakeWordDocument\MakeScreenShotsDocument\obj\Release\MakeScreenShotsDocument.Properties.Resources.resources
+E:\Projects\MakeWordDocument\MakeScreenShotsDocument\obj\Release\MakeScreenShotsDocument.csproj.GenerateResource.Cache
+E:\Projects\MakeWordDocument\MakeScreenShotsDocument\obj\Release\MakeScreenShotsDocument.exe.manifest
+E:\Projects\MakeWordDocument\MakeScreenShotsDocument\obj\Release\MakeScreenShotsDocument.application
+E:\Projects\MakeWordDocument\MakeScreenShotsDocument\obj\Release\MakeScreenShotsDocument.exe
+E:\Projects\MakeWordDocument\MakeScreenShotsDocument\obj\Release\MakeScreenShotsDocument.pdb
+E:\Projects\MakeWordDocument\MakeScreenShotsDocument\obj\Release\MakeScreenShotsDocument.csproj.ResolveComReference.cache
+E:\Projects\MakeWordDocument\MakeScreenShotsDocument\bin\Release\Resources\Help.docx
+E:\Projects\MakeWordDocument\MakeScreenShotsDocument\bin\Release\Resources\list.xlsx
+E:\Projects\MakeWordDocument\MakeScreenShotsDocument\bin\Release\Resources\Page1.docx
+E:\Projects\MakeWordDocument\MakeScreenShotsDocument\obj\Release\MakeScreenShotsDocument.csprojResolveAssemblyReference.cache
